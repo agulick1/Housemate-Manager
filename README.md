@@ -1,4 +1,5 @@
-# Team 1D
+# Written as a part of a team of 4 for CMPU-203 at Vassar College
+## I was most responsible for inventory and .xml files and helped with all others.
 
 ## Iteration 3:
 
